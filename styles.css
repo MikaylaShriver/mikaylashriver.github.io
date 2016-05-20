@@ -6,7 +6,7 @@ body {
 	font-family:'Indie Flower', cursive;
 	line-height: 1.5em;
 	color: #00e1b9;
-	background-image: url("../images/backdrop.jpg");
+	background-image: url("backdrop.jpg");
 	background-size: cover;
 	text-align: center;
 	font-weight: bold;
@@ -45,7 +45,7 @@ header {
 	margin-bottom: 20px;
 	padding-top: 50px;
 	padding-bottom: 20px;
-	background-image: url("../images/backdrop.jpg");
+	background-image: url("backdrop.jpg");
 	background-size: cover;
 	text-align: center;
 }
