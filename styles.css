@@ -6,7 +6,8 @@ body {
 	font-family:'Indie Flower', cursive;
 	line-height: 1.5em;
 	color: #00e1b9;
-	background-color: #7900ce;
+	background-image: url("../images/backdrop.jpg");
+	background-size: cover;
 	text-align: center;
 	font-weight: bold;
 }
@@ -28,7 +29,7 @@ h2 {
 }
 
 h3 {
-	margin-top: 1em
+	margin-top: 1em;
 	font-size: 16px;
 }
 
@@ -44,7 +45,8 @@ header {
 	margin-bottom: 20px;
 	padding-top: 50px;
 	padding-bottom: 20px;
-	background-color: #7900ce;
+	background-image: url("../images/backdrop.jpg");
+	background-size: cover;
 	text-align: center;
 }
 
@@ -73,7 +75,6 @@ nav ul li a {
 
 main {
 	max-width: 800px;
-	float: center;
 	font-size: 16px;
 }
 
